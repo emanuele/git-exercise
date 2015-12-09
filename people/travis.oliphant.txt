@@ -1,0 +1,5 @@
+david cournapeau
+robert kern
+stefan van der walt
+anne archibald
+pauli virtanen
